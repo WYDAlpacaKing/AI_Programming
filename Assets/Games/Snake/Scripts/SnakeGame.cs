@@ -1,13 +1,12 @@
-﻿using System.Collections;
+﻿using AlanZucconi.AI.BT;
+using AlanZucconi.Snake;
+using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
+using System.Text.RegularExpressions;
 using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.Tilemaps;
-
-using System.Linq;
-
-using AlanZucconi.AI.BT;
-using System.Text.RegularExpressions;
 
 namespace AlanZucconi.Snake
 {
@@ -1031,3 +1030,5 @@ namespace AlanZucconi.Snake
         */
     }
 }
+
+

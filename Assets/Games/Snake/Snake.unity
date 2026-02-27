@@ -352,7 +352,7 @@ MonoBehaviour:
   Rendering: 0
   ClearData: 1
   AIs:
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 25a72e6146759a446ae0f0435a0f87f1, type: 2}
 --- !u!4 &1118517423
 Transform:
   m_ObjectHideFlags: 0
